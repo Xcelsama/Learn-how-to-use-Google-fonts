@@ -1,1 +1,13 @@
+
 The Google  api link is put in the head tag
+
+<link rel="stylesheet"
+href="https://fonts.googleapis.com/css?family=Tangerine"
+
+THIS IMPORTS THE FONT FROM GOOGLE FONT API
+
+
+
+HERE IS THE LINK TO D0CS FOR FURTHER UNDERSTANDING AND APPLICATION.
+
+https://developers.google.com/fonts/docs/getting_started
